@@ -106,6 +106,7 @@ button {
   border-right: 3px solid rgb(0, 72, 255);
   transition: 0.2s;
   cursor: pointer;
+  color: white;
 }
 button:hover {
   border: 2px solid rgb(0, 72, 255);
